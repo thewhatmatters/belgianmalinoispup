@@ -17,9 +17,9 @@ export const config = {
 		// Custom ads pool - randomly selected
 		customAds: [
 			{
-				id: 'soc-compliance',
-				image: '/ads/soc.png',
-				url: 'https://randy.digital'
+				id: 'impact-dog-crates',
+				image: '/ads/impact-dog-crates.png',
+				url: 'https://www.impactdogcrates.com/malipup'
 			}
 		],
 		// Google Ads configuration (for future use)
