@@ -4,29 +4,29 @@
 
 	const faqItems = [
 		{
-			title: 'Who is this template best suited for?',
+			title: 'How much does a Belgian Malinois cost?',
 			content:
-				'Direx is perfect for anyone building a directory-style site—whether you’re listing local businesses, freelancers, services, events, or niche communities. It’s ideal for creators, startups, and agencies looking to launch fast.'
+				'The cost of a Belgian Malinois varies depending on age, pedigree, training, and the breeder. Pet-quality puppies typically range from $1,000 to $2,500, while dogs from working or titled bloodlines can cost between $2,500 and $4,000 or more. Fully trained protection or police dogs may cost anywhere from $10,000 to $30,000 or higher.  Additional expenses include vaccinations and microchipping ($100–$300), spay or neuter surgery ($200–$600), crates and accessories ($200–$500), training classes ($100–$300 per month), and high-quality food ($50–$100 per month).  It is important to work with a reputable breeder who provides health clearances and properly socializes their puppies. Avoid deals that seem too good to be true, as they may come from puppy mills or irresponsible sources.'
 		},
 		{
-			title: 'Can I customize the layout and visuals?',
+			title: 'How long do Belgian Malinois live?',
 			content:
-				'Yes. Direx is built for flexibility. You can easily customize colors, typography, spacing, and layouts to match your brand using your favorite design tools or directly in code.'
+				'Belgian Malinois typically live 12 to 14 years with proper care. They are generally a healthy, active breed, but their lifespan can be influenced by factors like diet, exercise, genetics, and regular veterinary care. Common health concerns include hip dysplasia, elbow dysplasia, and progressive retinal atrophy. Providing a balanced diet, mental stimulation, physical activity, and routine checkups can help ensure a long, healthy life.'
 		},
 		{
-			title: 'Do I need coding experience to use this template?',
+			title: 'Are Belgian Malinois aggressive?',
 			content:
-				'Not necessarily. Direx is designed with clean, well-organized code that’s beginner-friendly. Some basic HTML/CSS knowledge helps if you want to tweak things more deeply, but you don’t need to be an expert to get started.'
+				'Belgian Malinois are not naturally aggressive, but they are a high-energy, protective breed with strong working instincts. Without proper training, socialization, and daily mental and physical stimulation, they can develop behavioral issues, including aggression. However, with consistent guidance and early exposure to different people and environments, they are loyal, obedient, and confident dogs. They are best suited for experienced owners who can provide structure and purpose.'
 		},
 		{
-			title: 'Is this template mobile-friendly?',
+			title: 'How big do Belgian Malinois get?',
 			content:
-				'Absolutely. Direx is fully responsive and designed to look great on all devices—from phones to desktops.'
+				'Belgian Malinois typically grow to be 22 to 26 inches tall at the shoulder and weigh between 40 to 80 pounds, with males usually being larger than females. They have a lean, athletic build designed for speed, agility, and endurance, making them ideal for active work and high-intensity environments.'
 		},
 		{
-			title: 'Can I use this for a client project or commercial site?',
+			title: 'Are Belgian Malinois easy to train?',
 			content:
-				'Yes. Direx comes with a license that allows commercial use, so you can use it for personal sites, client projects, or full-scale businesses.'
+				'Belgian Malinois are considered highly trainable due to their intelligence, focus, and eagerness to work, which is why they’re commonly used in police and military roles. However, their high energy and intensity require consistent, experienced handling, making them best suited for owners who can provide structured training, mental stimulation, and regular physical activity.'
 		}
 	];
 </script>
