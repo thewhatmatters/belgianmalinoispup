@@ -5,7 +5,7 @@ export const config = {
 		'Your trusted resource for finding reputable breeders, expert training guides, and essential care tips for Belgian Malinois dogs. Whether you’re searching for a puppy, looking to train your Malinois, or need trusted gear recommendations, we help you connect with the best.',
 	// Default site URL - update this for your domain
 	defaultSiteUrl: 'https://belgianmalinoispup.com/',
-	contactEmail: 'romeomikedelta@gmail.com',
+	contactEmail: 'hqdirectory@gmail.com',
 	// Ad placement configuration
 	ads: {
 		enabled: true,
