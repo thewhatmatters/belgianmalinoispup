@@ -10,7 +10,7 @@
 		<div class="flex flex-col justify-between md:flex-row">
 			<!-- Left Side -->
 			<div class="flex flex-col gap-4">
-				<div class="flex max-w-sm flex-col gap-8">
+				<div class="flex max-w-sm flex-col gap-2">
 					<a
 						href="/"
 						class="flex items-center gap-1 text-lg leading-none font-medium text-slate-950 transition-colors duration-300 hover:text-slate-700 dark:text-slate-50 hover:dark:text-slate-100"
