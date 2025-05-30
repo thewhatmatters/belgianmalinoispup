@@ -135,11 +135,11 @@
 
 <Hero align="center" background="/hero.png" backgroundMobile="/hero-mobile.png">
 	<h1 class="text-2xl font-medium text-slate-950 mix-blend-difference md:text-4xl">
-		Build any directory. Fast!
+		Belgian Malinois Directory
 	</h1>
 	<p class="max-w-xl text-sm font-light text-slate-700 mix-blend-difference md:text-lg">
-		Whether you're launching a local business hub, service finder, or niche index, Direx gives you
-		the structure to do it all—beautifully.
+		Your trusted resource for Belgian Malinois breeders, training tips, and essential care. Find
+		everything you need to raise and connect with this incredible breed.
 	</p>
 </Hero>
 <FilterBar>

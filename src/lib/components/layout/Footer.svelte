@@ -19,8 +19,10 @@
 						{config.siteName}
 					</a>
 					<p class="text-sm leading-normal font-light text-slate-600 dark:text-slate-300">
-						All the tools &amp; resources you need, in one place. Boost productivity, unleash
-						creativity, and simplify tasks with our curated collection.
+						Your trusted resource for finding reputable breeders, expert training guides, and
+						essential care tips for Belgian Malinois dogs. Whether you’re searching for a puppy,
+						looking to train your Malinois, or need trusted gear recommendations, we help you
+						connect with the best.
 					</p>
 				</div>
 				<div class="flex max-w-sm flex-col gap-2">
