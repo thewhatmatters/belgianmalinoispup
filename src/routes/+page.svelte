@@ -10,33 +10,14 @@
 	import resources from '$lib/data/resources.json';
 	import { getRandomAd, shouldDisplayAd, getAdInsertIndex } from '$lib/utils/ads';
 	import type { CustomAd } from '$lib/utils/ads';
-	import {
-		OpenAiLogo,
-		CurrencyBtc,
-		Briefcase,
-		Shapes,
-		CreditCard,
-		DeviceMobile,
-		Desktop,
-		PaintBrush,
-		Code,
-		GitBranch,
-		ArrowsCounterClockwise
-	} from 'phosphor-svelte';
+	import { LegoSmiley, PawPrint, BookmarksSimple, YoutubeLogo } from 'phosphor-svelte';
 
 	// Example: filter options as an array
 	const filters = [
-		{ label: 'Artificial Intelligence', icon: OpenAiLogo, category: 'artificial-intelligence' },
-		{ label: 'Web 3', icon: CurrencyBtc, category: 'web-3' },
-		{ label: 'Portfolios', icon: Briefcase, category: 'portfolios' },
-		{ label: 'Startups', icon: Shapes, category: 'startups' },
-		{ label: 'E-commerce', icon: CreditCard, category: 'e-commerce' },
-		{ label: 'Mobile Apps', icon: DeviceMobile, category: 'mobile-apps' },
-		{ label: 'Desktop Apps', icon: Desktop, category: 'desktop-apps' },
-		{ label: 'Design', icon: PaintBrush, category: 'design' },
-		{ label: 'Development', icon: Code, category: 'development' },
-		{ label: 'Tech', icon: GitBranch, category: 'tech' },
-		{ label: 'SaaS', icon: ArrowsCounterClockwise, category: 'saas' }
+		{ label: 'Accessories', icon: LegoSmiley, category: 'accessories' },
+		{ label: 'Breeders', icon: PawPrint, category: 'breeders' },
+		{ label: 'Resources', icon: BookmarksSimple, category: 'resources' },
+		{ label: 'Videos', icon: YoutubeLogo, category: 'videos' }
 	];
 
 	const allResources = resources;
@@ -137,7 +118,7 @@
 	<h1 class="text-2xl font-medium text-slate-950 mix-blend-difference md:text-4xl">
 		Belgian Malinois Directory
 	</h1>
-	<p class="max-w-xl text-sm font-light text-slate-700 mix-blend-difference md:text-lg">
+	<p class="max-w-xl pb-8 text-sm font-light text-slate-700 mix-blend-difference md:text-lg">
 		Your trusted resource for Belgian Malinois breeders, training tips, and essential care. Find
 		everything you need to raise and connect with this incredible breed.
 	</p>
