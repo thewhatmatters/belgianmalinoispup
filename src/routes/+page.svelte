@@ -114,13 +114,12 @@
 	</script>`}
 </svelte:head>
 
-<Hero align="center" background="/hero.png" backgroundMobile="/hero-mobile.png">
-	<h1 class="text-2xl font-medium text-slate-950 mix-blend-difference md:text-4xl">
+<Hero align="left" background="/hero.png" backgroundMobile="/hero-mobile.png">
+	<h1 class="mb-2 text-2xl font-medium text-slate-950 mix-blend-difference md:text-4xl">
 		Belgian Malinois Directory
 	</h1>
-	<p class="max-w-xl pb-8 text-sm font-light text-slate-700 mix-blend-difference md:text-lg">
-		Your trusted resource for Belgian Malinois breeders, training tips, and essential care. Find
-		everything you need to raise and connect with this incredible breed.
+	<p class="max-w-lg text-sm font-light text-slate-700 mix-blend-difference md:text-lg">
+		Your trusted resource for Belgian Malinois breeders, training tips, and essential care.
 	</p>
 </Hero>
 <FilterBar>
