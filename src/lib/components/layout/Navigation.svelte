@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Button from '$lib/components/ui/Button.svelte';
-	import { EnvelopeSimple, NyTimesLogo, List, X } from 'phosphor-svelte';
+	import { EnvelopeSimple, PawPrint, List, X } from 'phosphor-svelte';
 	import { page } from '$app/stores';
 	import { config } from '$lib/config';
 	import { slide } from 'svelte/transition';
@@ -44,7 +44,7 @@
 				class="flex items-center gap-1 text-lg font-medium text-slate-950 transition-colors duration-300 hover:text-slate-700 sm:gap-2 dark:text-slate-50 hover:dark:text-slate-100"
 				on:click={closeMobileMenu}
 			>
-				<NyTimesLogo size={24} />
+				<PawPrint size={24} />
 				<span class="block text-base sm:text-lg">{config.siteName}</span>
 			</a>
 
