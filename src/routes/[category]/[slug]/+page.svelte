@@ -124,7 +124,7 @@
 	<div class="mb-2 flex w-full flex-col items-start justify-between md:flex-row">
 		<!-- Title with sponsored badge -->
 		<div class="mb-2 flex items-center gap-2 md:mb-0">
-			<h1 class="text-3xl font-bold text-slate-950 lg:text-4xl">
+			<h1 class="text-3xl font-bold text-slate-950 lg:text-4xl dark:text-slate-50">
 				{resource.title}
 			</h1>
 			{#if resource.sponsored}
@@ -147,11 +147,15 @@
 
 	<!-- Description -->
 	{#if resource.longDescription}
-		<p class="text-md max-w-full leading-normal font-normal text-slate-600 md:max-w-[80%]">
+		<p
+			class="text-md max-w-full leading-normal font-normal text-slate-600 md:max-w-[80%] dark:text-slate-300"
+		>
 			{resource.longDescription}
 		</p>
 	{:else if resource.description}
-		<p class="text-md max-w-full leading-normal font-normal text-slate-600 md:max-w-[80%]">
+		<p
+			class="text-md max-w-full leading-normal font-normal text-slate-600 md:max-w-[80%] dark:text-slate-300"
+		>
 			{resource.description}
 		</p>
 	{/if}
