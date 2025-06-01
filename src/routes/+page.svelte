@@ -41,14 +41,23 @@
 
 	let searchMode = false;
 	let searchQuery = '';
+	let previousSearchQuery = '';
 	let searchInput: HTMLInputElement | null = null;
 
 	function clearSearch() {
 		searchQuery = '';
+		previousSearchQuery = '';
 		searchMode = false;
+		currentPage = 1;
 	}
 
 	$: searchActive = searchQuery.trim().length > 0;
+
+	// Reset pagination only when search query actually changes
+	$: if (searchQuery !== previousSearchQuery) {
+		currentPage = 1;
+		previousSearchQuery = searchQuery;
+	}
 
 	function selectFilter(category: string) {
 		selectedCategory = selectedCategory === category ? '' : category;
@@ -212,7 +221,7 @@
 		</div>
 
 		<!-- Pagination -->
-		{#if totalPages > 1 && !searchActive}
+		{#if totalPages > 1}
 			<div class="mt-12">
 				<Pagination {currentPage} {totalPages} onPageChange={handlePageChange} />
 			</div>
