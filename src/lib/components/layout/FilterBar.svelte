@@ -52,43 +52,42 @@
 	onMount(() => {
 		updateGradients();
 	});
+
+	export let hideGradients: boolean = false;
 </script>
 
 <section
 	class="sticky top-[68px] z-30 w-full border-b border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-950"
 >
-	<div class="relative w-full">
-		{#if showLeft}
+	<div class="container mx-auto flex items-center gap-3 px-4 py-4 xl:px-0">
+		<!-- Fixed search icon/input -->
+		<slot name="search" />
+		<!-- Horizontally scrollable chips area -->
+		<div class="relative min-w-0 flex-1">
 			<div
-				class="pointer-events-none absolute top-0 left-1/2 z-20 h-full w-full max-w-screen-xl -translate-x-1/2"
+				bind:this={scrollEl}
+				role="toolbar"
+				tabindex="0"
+				class="scrollbar-hide overflow-x-auto whitespace-nowrap"
+				on:mousedown={handleMouseDown}
+				on:mouseleave={handleMouseLeave}
+				on:mouseup={handleMouseUp}
+				on:mousemove={handleMouseMove}
 			>
+				<div class="inline-flex gap-3">
+					<slot />
+				</div>
+				{#if !hideGradients && showLeft}
+					<div
+						class="pointer-events-none absolute top-0 left-0 h-full w-12 bg-gradient-to-r from-white/90 to-transparent dark:from-slate-950/90"
+					></div>
+				{/if}
+			</div>
+			{#if !hideGradients && showRight}
 				<div
-					class="absolute top-0 left-0 h-full w-12 bg-gradient-to-r from-white/90 to-transparent dark:from-slate-950/90"
+					class="pointer-events-none absolute top-0 right-0 h-full w-12 bg-gradient-to-l from-white/90 to-transparent dark:from-slate-950/90"
 				></div>
-			</div>
-		{/if}
-		{#if showRight}
-			<div
-				class="pointer-events-none absolute top-0 left-1/2 z-20 h-full w-full max-w-screen-xl -translate-x-1/2"
-			>
-				<div
-					class="absolute top-0 right-0 h-full w-12 bg-gradient-to-l from-white/90 to-transparent dark:from-slate-950/90"
-				></div>
-			</div>
-		{/if}
-		<div
-			bind:this={scrollEl}
-			role="toolbar"
-			tabindex="0"
-			class="scrollbar-hide container mx-auto overflow-x-auto px-4 py-4 whitespace-nowrap xl:px-0"
-			on:mousedown={handleMouseDown}
-			on:mouseleave={handleMouseLeave}
-			on:mouseup={handleMouseUp}
-			on:mousemove={handleMouseMove}
-		>
-			<div class="flex gap-3">
-				<slot />
-			</div>
+			{/if}
 		</div>
 	</div>
 </section>
