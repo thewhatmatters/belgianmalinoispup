@@ -165,24 +165,22 @@
 <FilterBar hideGradients={searchMode}>
 	<svelte:fragment slot="search">
 		{#if !searchMode}
-			<button type="button" aria-label="Open search" class="inline-block">
-				<Chip
-					leftIcon={{ component: MagnifyingGlass, props: { size: 18 } }}
-					active={searchActive}
-					onclick={() => {
-						searchMode = true;
-					}}
-				/>
-			</button>
+			<Chip
+				leftIcon={{ component: MagnifyingGlass, props: { size: 18 } }}
+				active={searchActive}
+				onclick={() => {
+					searchMode = true;
+				}}
+				ariaLabel="Open search"
+			/>
 		{:else}
 			<div class="flex w-full items-center gap-3">
-				<button type="button" aria-label="Close search" class="inline-block">
-					<Chip
-						leftIcon={{ component: X, props: { size: 20 } }}
-						active={true}
-						onclick={clearSearch}
-					/>
-				</button>
+				<Chip
+					leftIcon={{ component: X, props: { size: 20 } }}
+					active={true}
+					onclick={clearSearch}
+					ariaLabel="Close search"
+				/>
 				<input
 					class="flex-1 rounded-full border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-950 shadow-sm focus:border-slate-400 focus:outline-none dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50"
 					type="text"

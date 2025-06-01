@@ -4,6 +4,7 @@
 	export let rightIcon: any = null;
 	export let disabled: boolean = false;
 	export let onclick: ((e: MouseEvent) => void) | undefined = undefined;
+	export let ariaLabel: string | undefined = undefined;
 
 	function handleClick(e: MouseEvent) {
 		if (disabled) return;
@@ -13,6 +14,7 @@
 
 <button
 	type="button"
+	aria-label={ariaLabel}
 	class={`inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm font-medium transition-all duration-300
     ${
 			active
