@@ -168,9 +168,7 @@
 				<Chip
 					leftIcon={{ component: X, props: { size: 20 } }}
 					active={true}
-					onclick={() => {
-						searchMode = false;
-					}}
+					onclick={clearSearch}
 				/>
 				<input
 					class="flex-1 rounded-full border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-950 shadow-sm focus:border-slate-400 focus:outline-none dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50"
@@ -183,11 +181,6 @@
 					}}
 					style="min-width: 0;"
 				/>
-				{#if searchQuery}
-					<button class="ml-1 text-xs text-slate-500 hover:underline" on:click={clearSearch}>
-						Clear
-					</button>
-				{/if}
 			</div>
 		{/if}
 	</svelte:fragment>
