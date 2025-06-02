@@ -14,10 +14,10 @@ export function entries() {
 	}));
 }
 
-export const load: PageLoad = ({ params, url }) => {
+export const load = (({ params }) => {
 	const { category, slug } = params;
 
-	// Find the resource that matches both category and slugified title
+	// Find the resource that matches both category and slug
 	const resource = resources.find((r) => r.category === category && slugify(r.title) === slug);
 
 	if (!resource) {
@@ -26,6 +26,6 @@ export const load: PageLoad = ({ params, url }) => {
 
 	return {
 		resource,
-		siteUrl: url.origin || config.defaultSiteUrl
+		siteUrl: config.defaultSiteUrl.replace(/\/$/, '') // Remove trailing slash if present
 	};
-};
+}) satisfies PageLoad;
