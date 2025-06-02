@@ -18,7 +18,7 @@ export const config = {
 		customAds: [
 			{
 				id: 'impact-dog-crates',
-				image: '/ads/impact-dog-crates.png',
+				image: '/ads/impact-dog-crates.avif',
 				url: 'https://www.impactdogcrates.com/malipup'
 			}
 		],

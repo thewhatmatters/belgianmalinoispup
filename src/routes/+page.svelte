@@ -162,7 +162,7 @@
 	</script>`}
 </svelte:head>
 
-<Hero align="left" background="/hero.png" backgroundMobile="/hero-mobile.png">
+<Hero align="left" background="/hero.avif" backgroundMobile="/hero-mobile.avif">
 	<h1 class="mb-2 text-2xl font-medium text-slate-950 mix-blend-difference md:text-4xl">
 		Belgian Malinois Directory
 	</h1>

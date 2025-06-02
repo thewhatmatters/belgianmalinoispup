@@ -150,7 +150,7 @@
 		"sponsored": false
 	},
 	{
-		"id": "26",
+		"id": "16",
 		"title": "How to Train a Malinois",
 		"description": "Step-by-step guide to training Belgian Malinois, including crate and leash training tips.",
 		"longDescription": "This article from Rover covers the basics of training a Belgian Malinois, focusing on crate, house, and leash training. Learn how to start early and build a strong foundation for obedience and good behavior.",
@@ -160,81 +160,41 @@
 		"sponsored": false
 	},
 	{
-		"id": "27",
-		"title": "Puppy Whining in Crate Help",
-		"description": "Advice for helping a young Belgian Malinois puppy adjust to crate training and reduce whining.",
-		"longDescription": "This forum thread offers support and tips for owners of Belgian Malinois puppies struggling with crate whining. Learn how to ease your puppy's transition and encourage calm crate behavior.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://leerburg.com/webboard/thread.php?topic_id=24634&srsltid=AfmBOoq7gOLRvNEki_EzAoqxVF3ANB90IgVTH5sujJ3SrG9eFFc4Vs7i",
-		"sponsored": false
-	},
-	{
-		"id": "28",
-		"title": "Crate & Tether Training Advice",
-		"description": "Tips for crate and tether training Belgian Malinois for better behavior and safety.",
-		"longDescription": "This forum post discusses the benefits of crate and tether training for Belgian Malinois. Learn how these methods can help with supervision, housebreaking, and building a strong bond with your dog.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.workingdogforum.com/threads/belgian-malinois.8976/page-3",
-		"sponsored": false
-	},
-	{
-		"id": "29",
+		"id": "17",
 		"title": "Structure for Anxious Malinois",
 		"description": "How to use structure and crate routines to help anxious Belgian Malinois dogs thrive.",
 		"longDescription": "This article explains how structure, crate routines, and clear expectations can help anxious Belgian Malinois feel more secure and reduce problem behaviors.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/structure-for-anxious-malinois.avif",
 		"category": "resources",
 		"externalUrl": "https://www.intelligentk9training.com/post/anxious-belgian-malinois-structure-protocol",
 		"sponsored": false
 	},
 	{
-		"id": "30",
-		"title": "Is the Malinois Right for You?",
-		"description": "Learn if the Belgian Malinois breed fits your lifestyle, training needs, and experience level.",
-		"longDescription": "This ABMC article helps you determine if the Belgian Malinois is the right breed for you. It covers temperament, training requirements, and what to expect as an owner.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.malinoisclub.com/abmc/about-malinois/is-the-malinois-right-for-you/",
-		"sponsored": false
-	},
-	{
-		"id": "31",
-		"title": "Puppy Training Q&A at Home",
-		"description": "Expert advice on crate training and home routines for Belgian Malinois puppies.",
-		"longDescription": "This Q&A provides guidance on crate training Belgian Malinois puppies at home, including tips for supervision, housebreaking, and building good habits from the start.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.justanswer.com/dog-training/qg2xr-brother-brought-home-belgian-malinois-no-prior.html",
-		"sponsored": false
-	},
-	{
-		"id": "32",
+		"id": "18",
 		"title": "Malinois Board & Train Programs",
-		"description": "Overview of board and train programs for Belgian Malinois, including puppy and advanced options.",
+		"description": "[CA] Overview of board and train programs for Belgian Malinois, including puppy and advanced options.",
 		"longDescription": "This page details board and train programs for Belgian Malinois, covering puppy, beginning, and advanced obedience training. Learn what to expect and how these programs can benefit your dog.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-board-train-programs.avif",
 		"category": "resources",
 		"externalUrl": "https://www.offleashsocal.com/belgian-malinois-training",
 		"sponsored": false
 	},
 	{
-		"id": "33",
+		"id": "19",
 		"title": "How to Train a Malinois: 12 Steps",
 		"description": "A 12-step guide to training Belgian Malinois, including crate and toilet training tips.",
 		"longDescription": "This WikiHow article provides a 12-step approach to training Belgian Malinois, with practical advice on crate training, toilet breaks, and positive reinforcement for best results.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/how-to-train-malinois-12-steps.avif",
 		"category": "resources",
 		"externalUrl": "https://www.wikihow.com/Train-a-Belgian-Malinois",
 		"sponsored": false
 	},
 	{
-		"id": "34",
+		"id": "20",
 		"title": "Malinois Breed History & Crate Tips",
 		"description": "Learn about Belgian Malinois breed history and crate training for settling at home.",
 		"longDescription": "This AKC article covers the history of the Belgian Malinois and offers tips for crate training and helping your dog settle indoors. Understand the breed's background and how to support a calm home environment.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-breed-history-crate-tips.avif",
 		"category": "resources",
 		"externalUrl": "https://www.akc.org/expert-advice/dog-breeds/belgian-malinois-history/",
 		"sponsored": false
