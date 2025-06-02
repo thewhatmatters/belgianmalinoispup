@@ -24,42 +24,34 @@
 <svelte:head>
 	<!-- Basic SEO -->
 	<title>{resource.title} | {config.siteName}</title>
-	<meta
-		name="description"
-		content={resource.description ||
-			`Discover ${resource.title} and more resources on ${config.siteName}.`}
-	/>
+	<meta name="description" content={resource.description} />
 	<meta
 		name="keywords"
-		content={`${resource.title}, ${resource.category.replace('-', ' ')}, resources, tools, directory`}
+		content="{resource.title}, {resource.category}, belgian malinois, {config.siteName}"
 	/>
 	<meta name="author" content={config.siteName} />
 	<link rel="canonical" href={canonicalUrl} />
 
 	<!-- Open Graph / Facebook -->
-	<meta property="og:type" content="website" />
+	<meta property="og:type" content="article" />
 	<meta property="og:url" content={canonicalUrl} />
 	<meta property="og:title" content={`${resource.title} | ${config.siteName}`} />
-	<meta
-		property="og:description"
-		content={resource.description ||
-			`Discover ${resource.title} and more resources on ${config.siteName}.`}
-	/>
-	<meta property="og:image" content={`${siteUrl}${resource.image}`} />
-	<meta property="og:image:width" content="364" />
-	<meta property="og:image:height" content="340" />
+	<meta property="og:description" content={resource.description} />
 	<meta property="og:site_name" content={config.siteName} />
+	<meta property="og:image" content={`${siteUrl}/belgianmalinoispup-og.png`} />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta
+		property="og:image:alt"
+		content={`${resource.title} - Belgian Malinois resource information`}
+	/>
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:url" content={canonicalUrl} />
 	<meta property="twitter:title" content={`${resource.title} | ${config.siteName}`} />
-	<meta
-		property="twitter:description"
-		content={resource.description ||
-			`Discover ${resource.title} and more resources on ${config.siteName}.`}
-	/>
-	<meta property="twitter:image" content={`${siteUrl}${resource.image}`} />
+	<meta property="twitter:description" content={resource.description} />
+	<meta property="twitter:image" content={`${siteUrl}/belgianmalinoispup-og.png`} />
 
 	<!-- Additional SEO -->
 	<meta name="robots" content="index, follow" />

@@ -49,6 +49,31 @@
 		content="Browse our curated collection of {categoryName.toLowerCase()} for Belgian Malinois dogs."
 	/>
 	<meta name="keywords" content="{category}, belgian malinois, {config.siteName}" />
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content={`${categoryName} | ${config.siteName}`} />
+	<meta
+		property="og:description"
+		content="Browse our curated collection of {categoryName.toLowerCase()} for Belgian Malinois dogs."
+	/>
+	<meta property="og:site_name" content={config.siteName} />
+	<meta property="og:image" content={`${config.defaultSiteUrl}belgianmalinoispup-og.png`} />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta
+		property="og:image:alt"
+		content="Belgian Malinois Directory - {categoryName} resources and information"
+	/>
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:title" content={`${categoryName} | ${config.siteName}`} />
+	<meta
+		property="twitter:description"
+		content="Browse our curated collection of {categoryName.toLowerCase()} for Belgian Malinois dogs."
+	/>
+	<meta property="twitter:image" content={`${config.defaultSiteUrl}belgianmalinoispup-og.png`} />
 </svelte:head>
 
 <section class="container mx-auto px-4 py-12 xl:px-0">

@@ -119,11 +119,19 @@
 	<meta property="og:title" content={`${config.siteName} | Resource Directory`} />
 	<meta property="og:description" content={config.siteDescription} />
 	<meta property="og:site_name" content={config.siteName} />
+	<meta property="og:image" content={`${config.defaultSiteUrl}belgianmalinoispup-og.png`} />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta
+		property="og:image:alt"
+		content="Belgian Malinois Directory - Your trusted resource for Belgian Malinois information"
+	/>
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:title" content={`${config.siteName} | Resource Directory`} />
 	<meta property="twitter:description" content={config.siteDescription} />
+	<meta property="twitter:image" content={`${config.defaultSiteUrl}belgianmalinoispup-og.png`} />
 
 	<!-- Additional SEO -->
 	<meta name="robots" content="index, follow" />
