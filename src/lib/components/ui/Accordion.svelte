@@ -43,7 +43,9 @@
 					class="max-w-full md:max-w-[80%]"
 					transition:slide={{ duration: 300 }}
 				>
-					<p class="text-base leading-relaxed text-slate-600 dark:text-slate-200">{item.content}</p>
+					<p class="text-base leading-relaxed text-slate-600 dark:text-slate-200">
+						{@html item.content}
+					</p>
 				</div>
 			{/if}
 		</li>

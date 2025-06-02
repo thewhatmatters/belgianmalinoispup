@@ -1,32 +1,36 @@
 <script lang="ts">
 	import { config } from '$lib/config';
 	import Accordion from '$lib/components/ui/Accordion.svelte';
+	import { base } from '$app/paths';
 
 	const faqItems = [
 		{
-			title: 'How much does a Belgian Malinois cost?',
-			content:
-				'The cost of a Belgian Malinois varies depending on age, pedigree, training, and the breeder. Pet-quality puppies typically range from $1,000 to $2,500, while dogs from working or titled bloodlines can cost between $2,500 and $4,000 or more. Fully trained protection or police dogs may cost anywhere from $10,000 to $30,000 or higher.  Additional expenses include vaccinations and microchipping ($100–$300), spay or neuter surgery ($200–$600), crates and accessories ($200–$500), training classes ($100–$300 per month), and high-quality food ($50–$100 per month).  It is important to work with a reputable breeder who provides health clearances and properly socializes their puppies. Avoid deals that seem too good to be true, as they may come from puppy mills or irresponsible sources.'
+			title: `Are Belgian Malinois good family dogs?`,
+			content: `Belgian Malinois can make excellent family dogs, but they're not the right fit for every household. They're incredibly loyal, intelligent, and protective of their families, which are wonderful traits. However, they come with some important considerations.  These dogs have extremely high energy levels and need substantial daily exercise - we're talking about 2+ hours of vigorous activity, not just a walk around the block. They were bred as working dogs and need mental stimulation too, or they can become destructive. Without proper outlets, they might chew furniture, dig, or develop behavioral issues.`
 		},
 		{
-			title: 'How long do Belgian Malinois live?',
-			content:
-				'Belgian Malinois typically live 12 to 14 years with proper care. They are generally a healthy, active breed, but their lifespan can be influenced by factors like diet, exercise, genetics, and regular veterinary care. Common health concerns include hip dysplasia, elbow dysplasia, and progressive retinal atrophy. Providing a balanced diet, mental stimulation, physical activity, and routine checkups can help ensure a long, healthy life.'
+			title: `Where to buy Belgian Maliois?`,
+			content: `When looking for Belgian Malinois puppies, it's crucial to find reputable breeders who prioritize health, temperament, and proper breeding practices. You'll want to avoid puppy mills and backyard breeders who don't properly health test their dogs or socialize the puppies. Visit our breeders <a href="/" class="underline" data-sveltekit-preload-data>directory</a> to find reputable Malinois breeders in your area, complete with reviews and detailed information about their breeding programs. This will help ensure you find a healthy, well-socialized puppy from parents with good temperaments.`
 		},
 		{
-			title: 'Are Belgian Malinois aggressive?',
-			content:
-				'Belgian Malinois are not naturally aggressive, but they are a high-energy, protective breed with strong working instincts. Without proper training, socialization, and daily mental and physical stimulation, they can develop behavioral issues, including aggression. However, with consistent guidance and early exposure to different people and environments, they are loyal, obedient, and confident dogs. They are best suited for experienced owners who can provide structure and purpose.'
+			title: `How much does a Belgian Malinois cost?`,
+			content: `The cost of a Belgian Malinois varies depending on age, pedigree, training, and the breeder. Pet-quality puppies typically range from $1,000 to $2,500, while dogs from working or titled bloodlines can cost between $2,500 and $4,000 or more. Fully trained protection or police dogs may cost anywhere from $10,000 to $30,000 or higher.  Additional expenses include vaccinations and microchipping ($100–$300), spay or neuter surgery ($200–$600), crates and accessories ($200–$500), training classes ($100–$300 per month), and high-quality food ($50–$100 per month).  It is important to work with a reputable breeder who provides health clearances and properly socializes their puppies. Avoid deals that seem too good to be true, as they may come from puppy mills or irresponsible sources.`
 		},
 		{
-			title: 'How big do Belgian Malinois get?',
-			content:
-				'Belgian Malinois typically grow to be 22 to 26 inches tall at the shoulder and weigh between 40 to 80 pounds, with males usually being larger than females. They have a lean, athletic build designed for speed, agility, and endurance, making them ideal for active work and high-intensity environments.'
+			title: `How long do Belgian Malinois live?`,
+			content: `Belgian Malinois typically live 12 to 14 years with proper care. They are generally a healthy, active breed, but their lifespan can be influenced by factors like diet, exercise, genetics, and regular veterinary care. Common health concerns include hip dysplasia, elbow dysplasia, and progressive retinal atrophy. Providing a balanced diet, mental stimulation, physical activity, and routine checkups can help ensure a long, healthy life.`
 		},
 		{
-			title: 'Are Belgian Malinois easy to train?',
-			content:
-				'Belgian Malinois are considered highly trainable due to their intelligence, focus, and eagerness to work, which is why they’re commonly used in police and military roles. However, their high energy and intensity require consistent, experienced handling, making them best suited for owners who can provide structured training, mental stimulation, and regular physical activity.'
+			title: `Are Belgian Malinois aggressive?`,
+			content: `Belgian Malinois are not naturally aggressive, but they are a high-energy, protective breed with strong working instincts. Without proper training, socialization, and daily mental and physical stimulation, they can develop behavioral issues, including aggression. However, with consistent guidance and early exposure to different people and environments, they are loyal, obedient, and confident dogs. They are best suited for experienced owners who can provide structure and purpose.`
+		},
+		{
+			title: `How big do Belgian Malinois get?`,
+			content: `Belgian Malinois typically grow to be 22 to 26 inches tall at the shoulder and weigh between 40 to 80 pounds, with males usually being larger than females. They have a lean, athletic build designed for speed, agility, and endurance, making them ideal for active work and high-intensity environments.`
+		},
+		{
+			title: `Are Belgian Malinois easy to train?`,
+			content: `Belgian Malinois are considered highly trainable due to their intelligence, focus, and eagerness to work, which is why they're commonly used in police and military roles. However, their high energy and intensity require consistent, experienced handling, making them best suited for owners who can provide structured training, mental stimulation, and regular physical activity.`
 		}
 	];
 </script>
