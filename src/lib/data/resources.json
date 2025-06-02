@@ -101,22 +101,12 @@
 	},
 	{
 		"id": "11",
-		"title": "E-collar Training Tips",
-		"description": "Advice for training Belgian Malinois with e-collars, especially if improperly trained before.",
-		"longDescription": "This forum post discusses training Belgian Malinois with e-collars, including tips for dogs that may have been improperly trained in the past. Learn how to use e-collars safely and effectively for better results.",
-		"image": "/images/resource-default.png",
-		"category": "resources",
-		"externalUrl": "http://www.gundogforum.com/forum/viewtopic.php?t=52851",
-		"sponsored": false
-	},
-	{
-		"id": "12",
 		"title": "Puppy Crate Training Tips",
 		"description": "Quick tips to make crate training easier for your Belgian Malinois puppy.",
-		"longDescription": "This Pinterest resource provides helpful tips for crate training your Belgian Malinois puppy, from choosing the right crate size to creating positive associations. Make crate training a smooth and stress-free process for your pup.",
-		"image": "/images/resource-default.png",
+		"longDescription": "This resource provides helpful tips for crate training your Belgian Malinois puppy, from choosing the right crate size to creating positive associations. Make crate training a smooth and stress-free process for your pup.",
+		"image": "/images/resources/puppy-crate-training-tips.png",
 		"category": "resources",
-		"externalUrl": "https://www.pinterest.com/pin/train-your-belgian-malinois-puppy-with-crate-training-tips--624944885825787021/",
+		"externalUrl": "https://www.thegreatpets.com/train-your-belgian-malinois-puppy-with-crate-training-tips/",
 		"sponsored": false
 	},
 	{
