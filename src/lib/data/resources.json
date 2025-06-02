@@ -130,101 +130,21 @@
 		"sponsored": false
 	},
 	{
-		"id": "16",
-		"title": "Best Crates for Malinois",
-		"description": "Find the best crate options and training gear for Belgian Malinois dogs and puppies.",
-		"longDescription": "This resource reviews top crate choices and training accessories for Belgian Malinois, helping you select the right products for your dog's safety, comfort, and training needs.",
-		"image": "/images/resource-default.avif",
-		"category": "accessories",
-		"externalUrl": "https://smedia.io/?f=5878288243",
-		"sponsored": false
-	},
-	{
-		"id": "17",
+		"id": "14",
 		"title": "Mastering Crate Training",
 		"description": "Learn why crate training is crucial for high-energy breeds like the Belgian Malinois.",
 		"longDescription": "This blog post explains the importance of crate training for Belgian Malinois, especially for managing their energy and discipline. Get tips for making crate training a positive and effective experience.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/mastering-crate-training.avif",
 		"category": "resources",
 		"externalUrl": "https://www.tactipup.com/blogs/tactical-dog-blog/mastering-the-art-of-crate-training-unleash-the-power-of-discipline?srsltid=AfmBOop29g0j1NiH8BWZXtLuB7kg7dotpLFhawUvwMXvP36KF8roAcR_",
 		"sponsored": false
 	},
 	{
-		"id": "18",
-		"title": "Malinois & Kennel Life",
-		"description": "Why Belgian Malinois are not suited for kennel or outdoor-only living situations.",
-		"longDescription": "This forum thread discusses the challenges of keeping Belgian Malinois as kennel or outdoor dogs. Learn why this breed thrives best with close human interaction and structured environments.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.workingdogforum.com/threads/malinois-does-not-do-well-as-kennel-dog.11809/",
-		"sponsored": false
-	},
-	{
-		"id": "19",
-		"title": "Malinois Anxiety Solutions",
-		"description": "Tips for managing anxiety and destructive behavior in Belgian Malinois dogs.",
-		"longDescription": "This Q&A provides advice for owners of anxious Belgian Malinois, including exercise routines, crate training, and strategies to reduce destructive habits and improve behavior.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.justanswer.com/dog-health/n5qvb-belgian-malinois-extreme-anxiety-bought.html",
-		"sponsored": false
-	},
-	{
-		"id": "20",
-		"title": "Help for Malinois Rescue Owners",
-		"description": "Guidance for owners struggling with rescued Belgian Malinois and high-drive behavior.",
-		"longDescription": "This forum post offers support and practical tips for those who have adopted a Belgian Malinois rescue. Learn about training, structure, and resources to help your dog adjust and thrive in a new home.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://robertcabral.com/forums/discussion/im-failing-my-belgian-malinois-rescue-911-please-help/",
-		"sponsored": false
-	},
-	{
-		"id": "21",
-		"title": "Malinois Training Q&A",
-		"description": "Expert answers on crate training and home routines for Belgian Malinois puppies.",
-		"longDescription": "This Q&A covers crate training and basic home routines for Belgian Malinois puppies. Learn why crate training is recommended and how to use it for housebreaking and safety.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://pets.stackexchange.com/questions/23254/belgian-malinois-training",
-		"sponsored": false
-	},
-	{
-		"id": "22",
-		"title": "Belgian Malinois Kennel Group",
-		"description": "A Facebook group for Belgian Malinois breeders, trainers, and enthusiasts to connect.",
-		"longDescription": "Join this Facebook group to connect with Belgian Malinois breeders, trainers, and owners. Share experiences, ask questions, and find resources for raising and training Malinois dogs.",
-		"image": "/images/resource-default.avif",
-		"category": "breeders",
-		"externalUrl": "https://www.facebook.com/groups/653704585172793/",
-		"sponsored": false
-	},
-	{
-		"id": "23",
-		"title": "Best Cages for Belgian Malinois",
-		"description": "Discover top cages for Belgian Malinois to ensure comfort, safety, and effective training.",
-		"longDescription": "Explore the best cage options for Belgian Malinois, focusing on comfort, safety, and suitability for both training and relaxation at home. Find recommendations for crate types and features to look for.",
-		"image": "/images/resource-default.avif",
-		"category": "videos",
-		"externalUrl": "https://www.tiktok.com/discover/cages-for-belgian-malinois",
-		"sponsored": false
-	},
-	{
-		"id": "24",
-		"title": "Malinois Whining: Crate Routine Advice",
-		"description": "Tips for managing crate routines and whining in Belgian Malinois, with real owner advice.",
-		"longDescription": "This forum thread discusses crate routines and how to handle whining in Belgian Malinois. Learn from real owner experiences about daily schedules, crate time, and building calm behavior.",
-		"image": "/images/resource-default.avif",
-		"category": "resources",
-		"externalUrl": "https://www.workingdogforum.com/threads/malinois-whining-problems.50744/",
-		"sponsored": false
-	},
-	{
-		"id": "25",
+		"id": "15",
 		"title": "How Long Can A Dog Stay In A Crate Safely And Happily?",
 		"description": "Generally speaking, pet parents should avoid keeping their dogs crated without a break for periods longer than a maximum of 8 to 9 hours.",
 		"longDescription": "This article explains how long it is safe to keep a dog, including Belgian Malinois, in a crate. Get expert advice on maximum crate times, breaks, and ensuring your dog's well-being during crate training.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/how-long-can-a-dog-stay-in-a-crate-safely-happily.avif",
 		"category": "resources",
 		"externalUrl": "https://rockcreekcrates.com/blogs/news/the-right-amount-of-time-to-leave-your-dog-in-their-crate",
 		"sponsored": false
@@ -234,7 +154,7 @@
 		"title": "How to Train a Malinois",
 		"description": "Step-by-step guide to training Belgian Malinois, including crate and leash training tips.",
 		"longDescription": "This article from Rover covers the basics of training a Belgian Malinois, focusing on crate, house, and leash training. Learn how to start early and build a strong foundation for obedience and good behavior.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/how-to-train-malinois.avif",
 		"category": "resources",
 		"externalUrl": "https://www.rover.com/blog/belgian-malinois-training/",
 		"sponsored": false
