@@ -18,7 +18,7 @@
 	// Navigation handlers for buttons
 	function openExternal(e: Event) {
 		e.stopPropagation();
-		window.open(externalUrl, '_blank', 'noopener');
+		window.open(externalUrl, '_blank', 'noopener,noreferrer');
 	}
 	function goToInternal(e: Event) {
 		e.stopPropagation();
@@ -54,10 +54,10 @@
 			<button
 				type="button"
 				class="pointer-events-auto flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-sm font-medium text-slate-50 shadow transition hover:bg-slate-800 focus:ring-2 focus:ring-slate-950 focus:ring-offset-2 focus:outline-none dark:bg-slate-50 dark:text-slate-950 dark:hover:bg-slate-200 dark:focus:ring-slate-50"
-				aria-label={`View resource: ${title}`}
+				aria-label={`Visit ${title} (opens in new tab)`}
 				on:click|stopPropagation={openExternal}
 			>
-				Visit Resource <ArrowUpRight size={18} />
+				Visit Resource <ArrowUpRight size={18} aria-hidden="true" />
 			</button>
 			<button
 				type="button"
