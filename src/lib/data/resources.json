@@ -410,6 +410,16 @@
 		"sponsored": false
 	},
 	{
+		"id": "41",
+		"title": "Israel Protection K9",
+		"description": "Military trained protection dogs. Proudly based in Israel.",
+		"longDescription": "Founded by former Israeli special forces commander Arik, this company specializes in protection dogs with a mission rooted in real-world security experience. Their core philosophy centers on making personal protection accessible to everyone through affordable pricing, believing that safety shouldn't be a luxury. The company focuses on providing custom-trained protection dogs tailored to each client's unique needs and lifestyle, ensuring personalized security solutions for every situation.",
+		"image": "/images/protection/israel-protection-k9.avif",
+		"category": "protection",
+		"externalUrl": "https://israelprotectionk9.com/our-dogs/",
+		"sponsored": false
+	},
+	{
 		"id": "60",
 		"title": "Malinois in IPO & Schutzhund Sports",
 		"description": "Insights on Belgian Malinois in IPO, Schutzhund, and IGP sports from an expert trainer.",
