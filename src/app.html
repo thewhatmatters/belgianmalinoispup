@@ -39,12 +39,17 @@
 			rel="stylesheet"
 		/>
 		%sveltekit.head%
-		<!-- Umami Analytics -->
-		<script
-			defer
-			src="https://cloud.umami.is/script.js"
-			data-website-id="31e41a49-46b8-48a7-b69d-273983db50ff"
-		></script>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0F8D3YW9W6"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'G-0F8D3YW9W6');
+		</script>
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
