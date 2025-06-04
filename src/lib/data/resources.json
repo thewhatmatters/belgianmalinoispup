@@ -494,7 +494,7 @@
 		"title": "5 Malinois Training Tips",
 		"description": "Essential training tips for Belgian Malinois, focusing on exercise and obedience.",
 		"longDescription": "<p>Get five key training tips for Belgian Malinois, including the importance of daily exercise, mental stimulation, and consistent obedience routines for a well-behaved dog.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/5-malinois-training-tips.avif",
 		"category": "resources",
 		"externalUrl": "https://worlddogfinder.com/blog/training/belgian-malinois-training",
 		"sponsored": false
@@ -504,7 +504,7 @@
 		"title": "Surviving First Months with Malinois",
 		"description": "Video guide on surviving the first months with a new Belgian Malinois puppy.",
 		"longDescription": "<p>This video shares real-life experiences and tips for surviving the first three months with a Belgian Malinois puppy, including crate training and managing high energy.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/surviving-first-months-with-malinois.avif",
 		"category": "videos",
 		"externalUrl": "https://www.youtube.com/watch?v=JV-vKRyylY0",
 		"sponsored": false
@@ -514,7 +514,7 @@
 		"title": "Malinois Health & Care Guide",
 		"description": "Guide to Belgian Malinois health, care, and training for active, long-term owners.",
 		"longDescription": "<p>This guide covers Belgian Malinois health, care, and training needs, emphasizing the importance of exercise, socialization, and long-term commitment for this energetic breed.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-health-care-guide.avif",
 		"category": "resources",
 		"externalUrl": "https://www.petmd.com/dog/breeds/belgian-malinois",
 		"sponsored": false
@@ -524,7 +524,7 @@
 		"title": "Potty Training Your New Puppy",
 		"description": "Potty training tips for Malinois and German Shepherd puppies, including crate size advice.",
 		"longDescription": "<p>This article provides potty training advice for Belgian Malinois and German Shepherd puppies, with recommendations on crate size and establishing good habits early.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/potty-training-your-new-puppy.avif",
 		"category": "resources",
 		"externalUrl": "http://psdkennels.com/potty-training-new-puppy/",
 		"sponsored": false
@@ -534,7 +534,7 @@
 		"title": "MaligatorMom Virtual Mentorship",
 		"description": "Virtual mentorship for Belgian Malinois owners, covering routine, crate, and potty training.",
 		"longDescription": "<p>MaligatorMom offers a virtual mentorship program for Belgian Malinois owners. Learn about energy management, establishing routines, crate training, and potty training for a well-adjusted dog.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/maligatormom-virtual-mentorship.avif",
 		"category": "resources",
 		"externalUrl": "https://www.maligatormom.com/",
 		"sponsored": false
@@ -544,57 +544,47 @@
 		"title": "AKC Malinois Puppies for Sale",
 		"description": "Find Belgian Malinois puppies for sale on the AKC Marketplace, with training tips.",
 		"longDescription": "<p>Browse Belgian Malinois puppies for sale on the AKC Marketplace. Learn about training, activities, and what to expect when bringing home a Malinois puppy.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/breeders/akc-malinois-puppies-for-sale.avif",
 		"category": "breeders",
 		"externalUrl": "https://marketplace.akc.org/puppies/belgian-malinois",
 		"sponsored": false
 	},
 	{
 		"id": "55",
-		"title": "KSDK Malinois Breeder Info",
-		"description": "Breeder offering AKC Belgian Malinois puppies and trained dogs for sale.",
-		"longDescription": "<p>Georgia —  KSDK Malinois specializes in breeding AKC Belgian Malinois, offering puppies and trained dogs for sale. Learn about their breeding program and available dogs.</p>",
-		"image": "/images/resource-default.avif",
-		"category": "breeders",
-		"externalUrl": "https://www.ksdkmalinois.com/",
-		"sponsored": false
-	},
-	{
-		"id": "56",
 		"title": "Malinois Fascinating Facts",
 		"description": "Interesting facts about Belgian Malinois, their intelligence, and working abilities.",
 		"longDescription": "<p>This article highlights fascinating facts about the Belgian Malinois, focusing on their intelligence, loyalty, and roles in herding, security, and companionship.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-fascinating-facts.avif",
 		"category": "resources",
 		"externalUrl": "https://www.impactdogcrates.com/blogs/puppy-news/belgian-malinois-fascinating-facts-you-might-not-know?srsltid=AfmBOoqKdRXyf6xyDbXSbqLXdeObobPd9aZOhgHczihyw06B4rEQNyLV",
 		"sponsored": false
 	},
 	{
-		"id": "57",
+		"id": "56",
 		"title": "15 Essential Malinois Training Tips",
 		"description": "Key training tips for Belgian Malinois, focusing on exercise, obedience, and routines.",
 		"longDescription": "<p>This article provides 15 essential training tips for Belgian Malinois, emphasizing daily exercise, obedience, and routines to ensure a well-behaved and happy dog.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/15-essential-malinois-training-tips.avif",
 		"category": "resources",
 		"externalUrl": "https://citizenshipper.com/blog/essential-belgian-malinois-training-tips-master-obedience/",
 		"sponsored": false
 	},
 	{
-		"id": "58",
+		"id": "57",
 		"title": "Malinois Cost Guide 2025",
 		"description": "Guide to the cost of owning a Belgian Malinois in 2025, including tips for new owners.",
 		"longDescription": "<p>This guide breaks down the costs of owning a Belgian Malinois in 2025, covering purchase price, care, and tips for budgeting as a new owner.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-cost-guide-2025.avif",
 		"category": "resources",
 		"externalUrl": "https://spotpet.com/blog/breed-tips/how-much-does-a-belgian-malinois-cost",
 		"sponsored": false
 	},
 	{
-		"id": "59",
+		"id": "58",
 		"title": "First Week with Malinois Puppy (TikTok)",
 		"description": "TikTok videos documenting crate and house training with a Belgian Malinois puppy.",
 		"longDescription": "<p>This TikTok collection documents the first week with a Belgian Malinois puppy, focusing on crate and house training, and sharing tips for new owners.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/videos/first-week-with-malinois-puppy.avif",
 		"category": "videos",
 		"externalUrl": "https://www.tiktok.com/discover/first-week-with-belgium-malinois-puppy",
 		"sponsored": false
@@ -604,7 +594,7 @@
 		"title": "Malinois Breed Info & Traits",
 		"description": "Overview of Belgian Malinois breed traits, temperament, and suitability as pets.",
 		"longDescription": "<p>This resource provides an overview of the Belgian Malinois breed, including temperament, suitability as a pet, and what to expect as an owner.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-breed-info-traits.avif",
 		"category": "resources",
 		"externalUrl": "https://dogtime.com/dog-breeds/belgian-malinois",
 		"sponsored": false
