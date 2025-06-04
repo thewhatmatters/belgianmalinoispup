@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<!-- Right Side -->
-			<div class="flex flex-col gap-8">
+			<div class="mt-8 flex flex-col gap-8 lg:mt-0">
 				<div class="flex flex-row gap-24">
 					<div class="flex flex-col gap-2">
 						<h3 class="text-lg leading-none font-medium text-slate-950 dark:text-slate-50">
