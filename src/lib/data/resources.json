@@ -404,7 +404,7 @@
 		"title": "Untrainable Malinois? Crate & Potty Tips",
 		"description": "Advice for crate and potty training a challenging Belgian Malinois dog or puppy.",
 		"longDescription": "<p>This article shares the story of a difficult Belgian Malinois and offers tips for crate and potty training, even for dogs with no prior training experience.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/untrainable-malinois-crate-potty-tips.avif",
 		"category": "resources",
 		"externalUrl": "https://dogguru.com/sam-untrainable-belgian-malinois/",
 		"sponsored": false
@@ -434,7 +434,7 @@
 		"title": "Malinois in IPO & Schutzhund Sports",
 		"description": "Insights on Belgian Malinois in IPO, Schutzhund, and IGP sports from an expert trainer.",
 		"longDescription": "<p>This podcast episode features Danny Craig discussing his experience breeding, training, and competing with Belgian Malinois in protection sports. Learn what makes the breed excel in these disciplines.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-in-iposchutzhund-sports.avif",
 		"category": "videos",
 		"externalUrl": "https://www.youtube.com/watch?v=178IzyCJ9Ao",
 		"sponsored": false
@@ -442,9 +442,9 @@
 	{
 		"id": "44",
 		"title": "4500 Crate for Malinois & Shepherds",
-		"description": "Details on the 4500 crate size for Belgian Malinois, German Shepherds, and similar breeds.",
+		"description": "Details on the Zinger 4500 crate size for Belgian Malinois, German Shepherds, and similar breeds.",
 		"longDescription": "<p>Learn about the 4500 crate, designed for medium-large breeds like Belgian Malinois and German Shepherds. Find sizing info and suitability for your dog.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/accessories/4500-crate-for-malinois-shepherds.avif",
 		"category": "accessories",
 		"externalUrl": "https://www.zingerwinger.com/Crates/Size/4500/",
 		"sponsored": false
@@ -454,7 +454,7 @@
 		"title": "Malinois vs. Rottweiler: Key Differences",
 		"description": "Compare Belgian Malinois and Rottweiler breeds, including training and temperament.",
 		"longDescription": "<p>This article compares Belgian Malinois and Rottweilers, focusing on their training needs, temperament, and suitability for different owners.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-vs-rottweiler-key-differences.avif",
 		"category": "resources",
 		"externalUrl": "https://worldanimalfoundation.org/dogs/belgian-malinois-vs-rottweiler-breeds/",
 		"sponsored": false
@@ -464,7 +464,7 @@
 		"title": "Curing Dog Crate Anxiety Guide",
 		"description": "Tips for managing and curing crate anxiety in Belgian Malinois and other breeds.",
 		"longDescription": "<p>This guide provides strategies for addressing crate anxiety in Belgian Malinois, including training tips, travel advice, and creating positive crate experiences.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/curing-dog-crate-anxiety-guide.avif",
 		"category": "resources",
 		"externalUrl": "https://gunner.com/blogs/pack/how-to-cure-dog-crate-anxiety?srsltid=AfmBOop_LFRR1A27KDQAY1mNXxp3-UxXD5zzG6QSCNVuq91isTX2DGNS",
 		"sponsored": false
@@ -474,7 +474,7 @@
 		"title": "Complete Malinois Care Guide",
 		"description": "Comprehensive guide to caring for Belgian Malinois, including training and exercise.",
 		"longDescription": "<p>This WikiHow guide covers all aspects of Belgian Malinois care, from socialization and training to daily exercise and health tips for a well-rounded dog.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/complete-malinois-care-guide.avif",
 		"category": "resources",
 		"externalUrl": "https://www.wikihow.com/Care-for-a-Belgian-Malinois",
 		"sponsored": false
@@ -484,7 +484,7 @@
 		"title": "Malinois as a Family Dog?",
 		"description": "Pros and cons of having a Belgian Malinois as a family dog and their work ethic.",
 		"longDescription": "<p>This article discusses whether the Belgian Malinois is suitable as a family dog, highlighting their protective instincts, high work ethic, and the commitment required from owners.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-as-a-family-dog.avif",
 		"category": "resources",
 		"externalUrl": "https://loveandkissespetsitting.net/should-you-get-a-belgain-malinois/",
 		"sponsored": false
