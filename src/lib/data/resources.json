@@ -214,7 +214,7 @@
 		"title": "Malinois for First-Time Owners?",
 		"description": "Explore if Belgian Malinois are suitable for first-time dog owners and their training needs.",
 		"longDescription": "<p>This article discusses the suitability of Belgian Malinois for first-time owners, highlighting their energy, training requirements, and what to expect when bringing one home.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-first-time-owners.avif",
 		"category": "resources",
 		"externalUrl": "https://www.sniffspot.com/blog/dog-breeds/explore-the-belgian-malinois-insider-tips-from-real-dog-owners",
 		"sponsored": false
@@ -222,9 +222,9 @@
 	{
 		"id": "23",
 		"title": "Mohawks Malinois Breeder Info",
-		"description": "Learn about Mohawks Malinois, a breeder focused on working and companion Belgian Malinois.",
+		"description": "Kentucky — Learn about Mohawks Malinois, a breeder focused on working and companion Belgian Malinois.",
 		"longDescription": "<p>Mohawks Malinois breeds and trains Belgian Malinois for work and companionship. Discover their breeding philosophy, training approach, and what sets their dogs apart.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/breeders/mohawks-malinois-breeder-info.avif",
 		"category": "breeders",
 		"externalUrl": "https://www.mohawksmalinois.com/",
 		"sponsored": false
@@ -234,9 +234,9 @@
 		"title": "Puppy Training Diary Video",
 		"description": "Watch a Belgian Malinois puppy's training progress in this candid video diary series.",
 		"longDescription": "This video diary follows the real-life training journey of a Belgian Malinois puppy, showing both successes and challenges. Get an honest look at what training a Malinois is really like.",
-		"image": "/images/resource-default.avif",
+		"image": "/images/videos/puppy-training-diary-video.avif",
 		"category": "videos",
-		"externalUrl": "https://www.dogproblems.com/watch-adam-get-punked-by-this-belgian-malinois-puppy-puppy-training-diary-episode-6/",
+		"externalUrl": "https://www.youtube.com/watch?v=jlBLPXMnjqc",
 		"sponsored": false
 	},
 	{
@@ -244,7 +244,7 @@
 		"title": "Malinois Breed Info & Care",
 		"description": "Comprehensive overview of Belgian Malinois breed traits, care, and training essentials.",
 		"longDescription": "<p>This resource provides a detailed overview of the Belgian Malinois breed, including temperament, care needs, and training tips for prospective and current owners.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-breed-info-care.avif",
 		"category": "resources",
 		"externalUrl": "https://dogtime.com/dog-breeds/belgian-malinois",
 		"sponsored": false
@@ -252,9 +252,9 @@
 	{
 		"id": "26",
 		"title": "KSDK Malinois Breeder Info",
-		"description": "Information on KSDK Malinois, a breeder offering AKC and CKC Belgian Malinois puppies and dogs.",
+		"description": "Georgia — Information on KSDK Malinois, a breeder offering AKC and CKC Belgian Malinois puppies and dogs.",
 		"longDescription": "<p>KSDK Malinois specializes in breeding AKC and CKC Belgian Malinois, including started and trained dogs. Learn about their breeding program and available dogs.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/breeders/ksdk-malinois-breeder-info.avif",
 		"category": "breeders",
 		"externalUrl": "https://www.ksdkmalinois.com/",
 		"sponsored": false
@@ -264,7 +264,7 @@
 		"title": "Malinois Breed Traits & Training",
 		"description": "Overview of Belgian Malinois breed traits and training needs for new and experienced owners.",
 		"longDescription": "<p>This article covers the key characteristics of the Belgian Malinois, including intelligence, coat, and training requirements. Get tips for raising a well-adjusted Malinois.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-breed-traits-training.avif",
 		"category": "resources",
 		"externalUrl": "https://www.betterpet.com/learn/belgian-malinois",
 		"sponsored": false
@@ -274,7 +274,7 @@
 		"title": "Malinois Breeder & Trainer Tips",
 		"description": "Insights from a Belgian Malinois breeder and trainer on training gear and breed fascination.",
 		"longDescription": "<p>This blog post features tips from a Belgian Malinois breeder and trainer, discussing training gear, breed characteristics, and what makes the Malinois unique.</p>",
-		"image": "/images/resource-default.avif",
+		"image": "/images/resources/malinois-breeder-trainer-tips.avif",
 		"category": "resources",
 		"externalUrl": "https://mightypaw.com/blogs/news/how-belgian-malinois-breeder-trainer-frank-davis-uses-mighty-paws-training-gear?srsltid=AfmBOorHqntpR05TqK6id0K1pNp3RcFJTHt9qxz4SXiAI0JyMdkGhocq",
 		"sponsored": false
