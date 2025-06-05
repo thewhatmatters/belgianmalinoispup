@@ -13,7 +13,7 @@
 	import {
 		LegoSmiley,
 		PawPrint,
-		HandFist,
+		ShieldStar,
 		BookmarksSimple,
 		YoutubeLogo,
 		MagnifyingGlass,
@@ -24,7 +24,7 @@
 	const filters = [
 		{ label: 'Accessories', icon: LegoSmiley, category: 'accessories' },
 		{ label: 'Breeders', icon: PawPrint, category: 'breeders' },
-		{ label: 'Protection Dogs', icon: HandFist, category: 'protection' },
+		{ label: 'Protection Dogs', icon: ShieldStar, category: 'protection' },
 		{ label: 'Resources', icon: BookmarksSimple, category: 'resources' },
 		{ label: 'Videos', icon: YoutubeLogo, category: 'videos' }
 	];
