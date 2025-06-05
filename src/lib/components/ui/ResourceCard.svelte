@@ -33,7 +33,7 @@
 		style="aspect-ratio: 4/3;"
 		tabindex="0"
 		aria-label={`Open external resource: ${title}`}
-		on:click={openExternal}
+		on:click={goToInternal}
 		on:keydown={(e) => (e.key === 'Enter' || e.key === ' ' ? openExternal(e) : null)}
 		role="link"
 	>
