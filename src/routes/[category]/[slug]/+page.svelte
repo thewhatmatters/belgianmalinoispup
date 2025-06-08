@@ -7,6 +7,8 @@
 	import { getRandomAd } from '$lib/utils/ads';
 	import type { CustomAd } from '$lib/utils/ads';
 	import type { PageData } from './$types';
+	import { afterNavigate } from '$app/navigation';
+	import { onMount } from 'svelte';
 
 	export let data: PageData;
 	$: ({ resource, siteUrl } = data);
@@ -17,8 +19,13 @@
 	// Randomize ad on component mount (for individual resource pages)
 	let randomAd: CustomAd | null = null;
 
-	// Set random ad on mount
-	randomAd = getRandomAd();
+	onMount(() => {
+		randomAd = getRandomAd();
+	});
+
+	afterNavigate(() => {
+		randomAd = getRandomAd();
+	});
 </script>
 
 <svelte:head>

@@ -6,6 +6,8 @@
 	import { getRandomAd, shouldDisplayAd, getAdInsertIndex } from '$lib/utils/ads';
 	import type { CustomAd } from '$lib/utils/ads';
 	import type { PageData } from './$types';
+	import { afterNavigate } from '$app/navigation';
+	import { onMount } from 'svelte';
 
 	export let data: PageData;
 	const { category, resources: categoryResources } = data;
@@ -13,11 +15,15 @@
 	let currentPage = 1;
 	const itemsPerPage = 20;
 
-	// Randomize ad on component mount
 	let randomAd: CustomAd | null = null;
 
-	// Set random ad on mount
-	randomAd = getRandomAd();
+	onMount(() => {
+		randomAd = getRandomAd();
+	});
+
+	afterNavigate(() => {
+		randomAd = getRandomAd();
+	});
 
 	function handlePageChange(page: number) {
 		currentPage = page;

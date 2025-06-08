@@ -19,6 +19,8 @@
 		MagnifyingGlass,
 		X
 	} from 'phosphor-svelte';
+	import { afterNavigate } from '$app/navigation';
+	import { onMount } from 'svelte';
 
 	// Example: filter options as an array
 	const filters = [
@@ -35,11 +37,15 @@
 	let currentPage = 1;
 	const itemsPerPage = 20;
 
-	// Randomize ad on component mount
 	let randomAd: CustomAd | null = null;
 
-	// Set random ad on mount
-	randomAd = getRandomAd();
+	onMount(() => {
+		randomAd = getRandomAd();
+	});
+
+	afterNavigate(() => {
+		randomAd = getRandomAd();
+	});
 
 	let searchMode = false;
 	let searchQuery = '';
