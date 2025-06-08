@@ -20,6 +20,11 @@ export const config = {
 				id: 'impact-dog-crates',
 				image: '/ads/impact-dog-crates.avif',
 				url: 'https://www.impactdogcrates.com/malipup'
+			},
+			{
+				id: 'custom-og',
+				image: '/ads/custom-og.png',
+				url: 'https://customog.com?ref=hqdirectory'
 			}
 		],
 		// Google Ads configuration (for future use)
