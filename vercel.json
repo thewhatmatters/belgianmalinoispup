@@ -1,0 +1,9 @@
+{
+	"redirects": [
+		{
+			"source": "/breeders/ksdk-malinois-breeder-info",
+			"destination": "/breeders/ksdk-malinois",
+			"permanent": true
+		}
+	]
+}
