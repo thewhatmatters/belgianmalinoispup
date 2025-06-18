@@ -162,7 +162,7 @@
 	<!-- Ad Section (if ads enabled and ad available) -->
 	{#if config.ads.enabled && config.ads.showOnResourcePages && randomAd}
 		<div class="mt-8">
-			<Ad ad={randomAd} />
+			<Ad ad={randomAd as CustomAd} />
 		</div>
 	{/if}
 </main>

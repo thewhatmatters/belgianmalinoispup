@@ -8,6 +8,11 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	// Google AdSense types
+	interface Window {
+		adsbygoogle: any[];
+	}
 }
 
 export {};

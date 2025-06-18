@@ -232,7 +232,7 @@
 			{#each paginatedResources as resource, index}
 				<!-- Insert ad at the specified row position -->
 				{#if shouldShowAd && randomAd && index === adInsertIndex}
-					<Ad ad={randomAd} />
+					<Ad ad={randomAd as CustomAd} />
 				{/if}
 				<ResourceCard {...resource} />
 			{/each}

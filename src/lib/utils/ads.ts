@@ -16,24 +16,36 @@ export type AdData = CustomAd | GoogleAd;
 
 /**
  * Get a random ad from the available pool
- * Considers Google Ads frequency if enabled
+ * Now only returns custom ads since Google Auto Ads handles automatic placement
  */
 export function getRandomAd(): CustomAd | null {
-	const { customAds, googleAds } = config.ads;
+	const { customAds } = config.ads;
 
 	// If no custom ads available, return null
 	if (!customAds || customAds.length === 0) {
 		return null;
 	}
 
-	// Future: Google Ads logic
-	// if (googleAds.enabled && Math.random() < googleAds.frequency) {
-	//   return { id: 'google-ad', type: 'google', adSlotId: googleAds.adSlotId };
-	// }
-
-	// Select random custom ad
+	// Select random custom ad (Google Auto Ads handles automatic placement)
 	const randomIndex = Math.floor(Math.random() * customAds.length);
 	return customAds[randomIndex];
+}
+
+/**
+ * Get a Google Ad specifically
+ */
+export function getGoogleAd(): GoogleAd | null {
+	const { googleAds } = config.ads;
+
+	if (!googleAds.enabled) {
+		return null;
+	}
+
+	return {
+		id: 'google-ad',
+		type: 'google',
+		adSlotId: googleAds.adSlotId
+	};
 }
 
 /**

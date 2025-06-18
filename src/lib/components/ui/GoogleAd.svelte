@@ -1,23 +1,73 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
+
 	// Google Ads component for future implementation
 	export let adSlotId: string;
-	export let adFormat: string = 'horizontal'; // horizontal | vertical | responsive
+	export let adFormat: string = 'auto'; // auto | horizontal | vertical | rectangle
 
-	// This will be implemented when Google Ads is ready
-	// For now, it's a placeholder that matches the ad space
+	let adContainer: HTMLElement;
+	let adElement: HTMLElement;
+	let adLoaded = false;
+	let adFailed = false;
+
+	onMount(() => {
+		// Wait a bit for the page to settle
+		setTimeout(() => {
+			initializeAd();
+		}, 100);
+
+		// Set a timeout to check if ad loaded
+		setTimeout(() => {
+			checkAdStatus();
+		}, 3000);
+	});
+
+	function initializeAd() {
+		if (typeof window !== 'undefined' && window.adsbygoogle && adElement) {
+			try {
+				(window.adsbygoogle = window.adsbygoogle || []).push({});
+
+				// Check if ad has content after a short delay
+				setTimeout(() => {
+					if (adElement && adElement.innerHTML.trim() !== '') {
+						adLoaded = true;
+					}
+				}, 1000);
+			} catch (e) {
+				console.error('AdSense error:', e);
+				adFailed = true;
+			}
+		}
+	}
+
+	function checkAdStatus() {
+		if (!adLoaded && adElement) {
+			// Check if the ad element has any meaningful content
+			const hasContent = adElement.innerHTML.trim() !== '' && adElement.offsetHeight > 0;
+
+			if (!hasContent) {
+				adFailed = true;
+			} else {
+				adLoaded = true;
+			}
+		}
+	}
 </script>
 
-<div class="col-span-full my-8">
-	<div
-		class="flex min-h-[200px] w-full items-center justify-center rounded-lg border-2 border-dashed border-slate-300 bg-slate-50"
-	>
-		<div class="text-center text-slate-500">
-			<p class="text-sm font-medium">Google Ad Space</p>
-			<p class="text-xs">Slot ID: {adSlotId}</p>
-			<p class="text-xs">Format: {adFormat}</p>
-		</div>
+<!-- Only show container if ad loads successfully, otherwise show nothing -->
+{#if !adFailed}
+	<div class="col-span-full" bind:this={adContainer}>
+		<ins
+			bind:this={adElement}
+			class="adsbygoogle"
+			style="display:block; min-height:0;"
+			data-ad-client="ca-pub-6372188459026911"
+			data-ad-slot={adSlotId}
+			data-ad-format={adFormat}
+			data-full-width-responsive="true"
+		></ins>
 	</div>
-</div>
+{/if}
 
 <!-- Future Google Ads implementation will go here -->
 <!-- 
