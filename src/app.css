@@ -10,6 +10,67 @@
 	}
 }
 
+@layer components {
+	/* Blog-specific styles */
+	.blog-content p {
+		@apply mb-4;
+	}
+
+	/* Remove margin from the last paragraph to avoid extra spacing */
+	.blog-content p:last-child {
+		@apply mb-0;
+	}
+
+	/* Blog heading styles */
+	.blog-content h2 {
+		@apply mt-8 mb-4 text-2xl font-bold text-slate-900 dark:text-white;
+	}
+
+	.blog-content h3 {
+		@apply mt-6 mb-3 text-xl font-semibold text-slate-800 dark:text-slate-100;
+	}
+
+	.blog-content h4 {
+		@apply mt-5 mb-2 text-lg font-semibold text-slate-700 dark:text-slate-200;
+	}
+
+	.blog-content h5 {
+		@apply mt-4 mb-2 text-base font-medium text-slate-600 dark:text-slate-300;
+	}
+
+	.blog-content h6 {
+		@apply mt-3 mb-2 text-sm font-medium tracking-wide text-slate-500 uppercase dark:text-slate-400;
+	}
+
+	.blog-content a {
+		@apply text-blue-600 underline dark:text-blue-400;
+	}
+
+	.blog-content ul {
+		@apply mb-4 list-disc pl-6;
+	}
+
+	.blog-content ol {
+		@apply mb-4 list-decimal pl-6;
+	}
+
+	.blog-content li {
+		@apply mb-2;
+	}
+
+	.blog-content strong {
+		@apply font-semibold text-slate-800 dark:text-slate-200;
+	}
+
+	.blog-content em {
+		@apply italic;
+	}
+
+	.blog-content img {
+		@apply my-6 rounded-lg;
+	}
+}
+
 :root {
 	--background-color: #ffffff;
 }
