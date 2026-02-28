@@ -1,12 +1,11 @@
-import { processMarkdown, type BlogPost } from '\$lib/utils/markdown';
+import { processMarkdown, type BlogPost } from '$lib/utils/markdown';
 
 // Import markdown files as raw strings
-// Add new blog posts here by importing the .md file
-import welcomePostMd from '\$lib/content/blog/welcome-to-belgianmalinoispup.md?raw';
+import firstTimeOwnerPostMd from '$lib/content/blog/first-time-owner-truth.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
-	{ slug: 'welcome-to-belgianmalinoispup', content: welcomePostMd }
+	{ slug: 'first-time-owner-truth', content: firstTimeOwnerPostMd }
 ];
 
 // Cache for processed posts
