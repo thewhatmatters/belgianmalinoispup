@@ -3,7 +3,7 @@ title: "The Truth About Belgian Malinois for First-Time Owners: What Reddit Won'
 description: "Debunking myths about Belgian Malinois for first-time owners. Real experiences from the community on whether a Malinois is right for beginners."
 date: "2026-02-28"
 author: "BelgianMalinoisPup.com Team"
-image: "/images/blog/2026-02/malinois-training-1.avif"
+image: "/images/blog/2026-02/malinois-standing.avif"
 excerpt: "Can a first-time dog owner handle a Belgian Malinois? The community is divided. Here's the honest truth from real owners about what it really takes to succeed with this intense breed."
 tags: ["first-time owner", "belgian malinois", "training", "beginner guide"]
 ---
@@ -14,7 +14,7 @@ So who's right?
 
 The answer, like most things with this breed, isn't black and white. After analyzing hundreds of discussions from r/BelgianMalinois and speaking with owners who've been on both sides of this debate, here's what the community really thinks.
 
-![Belgian Malinois training session](/images/blog/2026-02/malinois-training-1.avif 'Consistent training is essential for Belgian Malinois')
+![Belgian Malinois training session](/images/blog/2026-02/malinois-standing.avif 'Consistent training is essential for Belgian Malinois')
 
 ## The Controversial Take: "Total BS"
 
@@ -34,7 +34,7 @@ One experienced owner put it bluntly: *"They are a lot of dog, too much for most
 
 The statistics back this up. Belgian Malinois are surrendered at higher rates than almost any other breed, often within the first year. The reasons are predictable: "Too much energy." "Destroyed my house." "Aggressive with kids." "Couldn't handle the exercise needs."
 
-![Belgian Malinois outdoor exercise](/images/blog/2026-02/malinois-outdoor-2.avif 'Daily exercise and mental stimulation are non-negotiable')
+![Belgian Malinois outdoor exercise](/images/blog/2026-02/malinois-puppy.avif 'Daily exercise and mental stimulation are non-negotiable')
 
 ## What Separates Success from Failure
 
@@ -67,7 +67,7 @@ Be honest with yourself. If any of these apply, a Malinois probably isn't right 
 - You're attracted to the "protection" aspect but don't want to do the work
 - You've never owned any high-energy pet before
 
-![Owner bonding with Belgian Malinois](/images/blog/2026-02/malinois-owner-3.avif 'The bond between a Malinois and committed owner is unmatched')
+![Owner bonding with Belgian Malinois](/images/blog/2026-02/malinois-portrait.avif 'The bond between a Malinois and committed owner is unmatched')
 
 ## The Verdict: It's Not About Experience, It's About Commitment
 
