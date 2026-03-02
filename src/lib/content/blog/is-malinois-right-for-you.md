@@ -3,7 +3,7 @@ title: "Is a Belgian Malinois Right for You? An Honest Readiness Guide"
 description: "Thinking about getting a Belgian Malinois? This comprehensive guide covers everything you need to know before bringing one home — energy levels, time commitment, and the real costs of ownership."
 date: "2026-03-02"
 author: "BelgianMalinoisPup.com Team"
-image: "/images/blog/2026-03/malinois-profile.avif"
+image: "/images/blog/2026-03/malinois-protection.avif"
 excerpt: "The Belgian Malinois isn't for everyone. Before you fall in love with that fawn coat and black mask, learn what it really takes to raise this incredible — and incredibly demanding — breed."
 tags: ["belgian malinois", "is this breed right for me", "puppy guide", "first-time owner", "readiness guide"]
 ---
@@ -14,7 +14,7 @@ Here's the uncomfortable answer: **Probably not.**
 
 That might sound harsh, but it's the most honest thing we can tell you. The Belgian Malinois is one of the most rewarding breeds you can own — but also one of the most challenging. The gap between expectation and reality is wider with Malinois than almost any other breed.
 
-![Belgian Malinois standing alert](/images/blog/2026-03/malinois-standing-alert.avif 'The Belgian Malinois is a working breed with intense energy and drive')
+![Belgian Malinois standing alert](/images/blog/2026-03/malinois-protection.avif 'The Belgian Malinois is a working breed with intense energy and drive')
 
 ## What Makes Malinois Different
 
@@ -50,7 +50,7 @@ Unlike breeds that naturally calm down, many Malinois maintain intense drive wel
 
 Even well-trained Malinois have strong bite instincts. This isn't a breed you can take to the dog park and forget about.
 
-![Belgian Malinois puppy playing](/images/blog/2026-03/malinois-puppy-play.avif 'Puppies are adorable but require massive time investment')
+![Belgian Malinois puppy playing](/images/blog/2026-03/malinois-puppy-young.avif 'Puppies are adorable but require massive time investment')
 
 ## Are You Ready? The Questions You Need to Answer
 
@@ -111,7 +111,7 @@ If you're still reading and thinking "I'm ready," here's who tends to succeed:
 - You're attracted to the "tough" image without understanding the work
 - You think training means sending the dog away to board and train
 
-![Belgian Malinois working](/images/blog/2026-03/malinois-working.avif 'A working Malinois is a fulfilled Malinois')
+![Belgian Malinois working](/images/blog/2026-03/malinois-teddy.avif 'A working Malinois is a fulfilled Malinois')
 
 ## Alternatives to Consider
 
