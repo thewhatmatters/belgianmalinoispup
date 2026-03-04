@@ -738,5 +738,35 @@
 		"category": "accessories",
 		"externalUrl": "https://kuranda.com/",
 		"sponsored": false
+	},
+	{
+		"id": "75",
+		"title": "Ot Vitosha Malinois",
+		"description": "Florida — World-renowned breeder Ivan Balabanov produces exceptional working Belgian Malinois with proven European bloodlines.",
+		"longDescription": "<p>Ot Vitosha Malinois, bred by Ivan Balabanov, is synonymous with excellence in the Belgian Malinois world. With decades of experience and multiple World Championship titles, Balabanov has established one of the most respected breeding programs globally. Their dogs are known for exceptional drive, intelligence, and working ability, making them ideal for protection sports, K9 work, and serious working dog applications. Each dog is carefully bred for temperament, structure, and performance, with extensive health testing and proven pedigrees.</p>",
+		"image": "/images/breeders/ot-vitosha-malinois.avif",
+		"category": "breeders",
+		"externalUrl": "https://www.malinois.com/",
+		"sponsored": false
+	},
+	{
+		"id": "76",
+		"title": "Battle Road K9",
+		"description": "Northeast — Top-rated Belgian Malinois breeder with nearly 40 years of law enforcement experience, specializing in police, military, sport, and personal protection dogs.",
+		"longDescription": "<p>Battle Road K9 is a trusted name in Belgian Malinois breeding, backed by nearly 40 years of law enforcement experience. Based in the Northeast, they specialize in producing dogs for police, military, sport (IPO/IGP), and personal protection work. Their breeding program focuses on AKC-registered dogs with KNPV lines, ensuring proven working genetics. Every dog is bred for temperament, drive, and structural soundness, making them ideal for handlers who need a serious working partner.</p>",
+		"image": "/images/breeders/battle-road-k9.avif",
+		"category": "breeders",
+		"externalUrl": "https://battleroadk9.com/index.html",
+		"sponsored": false
+	},
+	{
+		"id": "77",
+		"title": "European Belgian Malinois",
+		"description": "California — Recognized as a TOP 10 Belgian Malinois breeder in the US, specializing in working line dogs with European bloodlines.",
+		"longDescription": "<p>European Belgian Malinois, operating as Chien Policier, has earned recognition as one of the TOP 10 Belgian Malinois breeders in the United States. Located in California, they specialize in importing and breeding dogs with exceptional European bloodlines. Their program focuses on producing dogs with strong working genetics, correct structure, and stable temperaments suitable for protection work, sports, and dedicated companion homes. All breeding dogs undergo comprehensive health testing and evaluation for working ability.</p>",
+		"image": "/images/breeders/european-belgian-malinois.avif",
+		"category": "breeders",
+		"externalUrl": "https://www.europeanbelgianmalinois.com/",
+		"sponsored": false
 	}
 ]
