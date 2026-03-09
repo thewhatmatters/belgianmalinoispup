@@ -778,5 +778,25 @@
     "category": "accessories",
     "externalUrl": "https://doggearreview.com/article/gunnervsruffland/",
     "sponsored": false
+  },
+  {
+    "id": "79",
+    "title": "Big Barker Orthopedic Dog Beds",
+    "description": "Veterinarian-recommended orthopedic beds designed specifically for large and extra large breed dogs.",
+    "longDescription": "<p>Big Barker dog beds are specifically engineered for large and extra large breed dogs, making them an excellent choice for Belgian Malinois owners. These beds feature 7-inch orthopedic foam that provides superior joint support, which is essential for active working dogs prone to hip and elbow issues. The beds are clinically proven to reduce joint pain, improve mobility, and speed recovery after injuries or surgeries. Every Big Barker comes with a 10-Year Warranty that guarantees the bed won't flatten or lose shape — a crucial feature for high-energy dogs who use their beds intensively. Available in multiple sizes to accommodate Malinois from puppy to adult, Big Barker beds also feature removable, machine-washable covers for easy cleaning. For Belgian Malinois owners who want the best for their dog's long-term joint health, Big Barker provides peace of mind through veterinary recommendation and a unique guarantee that outperforms typical dog bed lifespans.</p>",
+    "image": "/images/accessories/big-barker-beds.avif",
+    "category": "accessories",
+    "externalUrl": "https://bigbarker.com/",
+    "sponsored": false
+  },
+  {
+    "id": "80",
+    "title": "ProSelect Empire Dog Crates",
+    "description": "Heavy-duty steel escape-proof crates for strong, anxious, or destructive dogs.",
+    "longDescription": "<p>The ProSelect Empire is a premium heavy-duty dog crate designed specifically for strong, anxious, or destructive breeds — making it a solid choice for Belgian Malinois owners who need extra security. Constructed from reinforced 20-gauge steel with heavy-duty welds, ProSelect Empire crates withstand significant force and escape attempts that would destroy standard wire crates. The crate features double-door access for flexible placement, secure slide-bolt latches that are virtually impossible for dogs to manipulate, and ventilation windows designed to keep dogs cool while maintaining security. Multiple size options ensure a proper fit for Belgian Malinois of all sizes, from athletic puppies to full-grown adults. While ProSelect crates are heavier than some alternatives (a trade-off for their durability), many owners report that their ProSelect survived attempts that destroyed previous crates. For Malinois owners dealing with escape artists or anxiety-driven destructiveness, ProSelect Empire provides a reliable containment solution backed by thousands of positive reviews from owners of powerful breeds.</p>",
+    "image": "/images/accessories/proselect-empire-crates.avif",
+    "category": "accessories",
+    "externalUrl": "https://www.amazon.com/proselect-dog-crate/s?k=proselect+dog+crate",
+    "sponsored": false
   }
 ]
