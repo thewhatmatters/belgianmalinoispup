@@ -3,11 +3,13 @@ import { processMarkdown, type BlogPost } from '$lib/utils/markdown';
 // Import markdown files as raw strings
 import firstTimeOwnerPostMd from '$lib/content/blog/first-time-owner-truth.md?raw';
 import isMalinoisRightPostMd from '$lib/content/blog/is-malinois-right-for-you.md?raw';
+import exerciseNeedsPostMd from '$lib/content/blog/belgian-malinois-exercise-needs.md?raw';
 
 // Define the blog posts with their content
 const blogPostsData = [
 	{ slug: 'first-time-owner-truth', content: firstTimeOwnerPostMd },
-	{ slug: 'is-malinois-right-for-you', content: isMalinoisRightPostMd }
+	{ slug: 'is-malinois-right-for-you', content: isMalinoisRightPostMd },
+	{ slug: 'belgian-malinois-exercise-needs', content: exerciseNeedsPostMd }
 ];
 
 // Cache for processed posts
