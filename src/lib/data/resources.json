@@ -798,5 +798,25 @@
     "category": "accessories",
     "externalUrl": "https://www.amazon.com/proselect-dog-crate/s?k=proselect+dog+crate",
     "sponsored": false
+  },
+  {
+    "id": "81",
+    "title": "Gorilla Dog Beds",
+    "description": "Chew-proof dog beds made in the USA with military-grade Cordura fabric.",
+    "longDescription": "<p>Gorilla Dog Beds specializes in the toughest chew-proof and orthopedic dog beds on the market. Their Ballistic Line features military-grade Cordura fabric on sides and bottoms, triple-stitched seams for incredible strength, and CertiPUR-US certified foam for joint support. The company offers a 125-day warranty on their chew-proof line — if your dog chews through, they send a free replacement cover. For orthopedic mattresses, they provide a lifetime warranty that guarantees the bed won't go flat. All products are handcrafted in the USA with rigorous attention to detail. For Belgian Malinois owners dealing with aggressive chewers or dogs that destroy typical beds, Gorilla Dog Beds provides a proven solution backed by strong warranties.</p>",
+    "image": "/images/accessories/gorilla-dog-beds.avif",
+    "category": "accessories",
+    "externalUrl": "https://gorilladogbeds.com/",
+    "sponsored": false
+  },
+  {
+    "id": "82",
+    "title": "Mammoth Dog Beds",
+    "description": "Vet-recommended orthopedic dog beds for large dogs with lifetime warranty.",
+    "longDescription": "<p>Mammoth Dog Beds has been manufacturing superior quality dog beds since 1995, specializing in beds designed specifically for large and giant breed dogs. Their orthopedic beds feature high-density memory foam that provides excellent joint support — essential for active Belgian Malinois prone to hip and elbow issues. Every Mammoth bed includes a lifetime warranty, and the company is vet-recommended for dogs with joint concerns. All products are made in the USA using 12 to 38oz upholstery-grade textiles that withstand daily wear and tear. The removable mattress design makes these beds perfect for travel. For Malinois owners who want proven orthopedic support with a warranty that outlasts typical dog bed lifespans, Mammoth delivers exceptional value.</p>",
+    "image": "/images/accessories/mammoth-dog-beds.avif",
+    "category": "accessories",
+    "externalUrl": "https://www.mammothoutlet.com/",
+    "sponsored": false
   }
 ]
